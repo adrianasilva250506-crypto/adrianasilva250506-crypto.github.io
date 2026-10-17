@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6f0;
+  text-align: center;
+}
+
+h1 {
+  color: #b5838d;
+}
+
+img {
+  border-radius: 50%;
+}
+
+a {
+  color: white;
+  background-color: #b5838d;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}ul {
+  list-style: none;
+  padding: 0;
+}
+
